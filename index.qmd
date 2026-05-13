@@ -1,11 +1,20 @@
 ---
-title: "temp_website"
+title: "Lab 2 - TOH WEN QIAN"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    page-layout: full
 ---
 
-This is a Quarto website.
+# About Me
+I'm currently studying Applied AI in Singapore Institute of Technology
+Im interested in:
+- AI & Machine Learning
+- UI/UX
+- Business & Branding
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![](sit.jpg)
 
-```{r}
-1 + 1
-```
+# Contact
+Email: 2503151@sit.singaporetech.edu.sg

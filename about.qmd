@@ -1,9 +1,11 @@
 ---
-title: "About"
+title: "Lab 2 Assigment"
 ---
+Lab check list 
+- Created the Quarto website project which renders without errors.
 
-About this site
+- Synchronized your Quarto website with the GitHub repository.
 
-```{r}
-1 + 1
-```
+- Created multiple pages on your website and added content to the pages.
+
+- Applied some formatting and styling in _quarto.yml, style.css, and page content.
